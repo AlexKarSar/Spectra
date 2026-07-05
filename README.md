@@ -1,7 +1,8 @@
 # Spectra
 Разработка программного комплекса детекции и сегментации аномалий на сельскохозяйственных полях
 
-<img width="1057" height="635" alt="image" src="https://github.com/user-attachments/assets/99ee1d51-3f5b-419b-b096-39def88f10bb" />
+<img width="1042" height="622" alt="image" src="https://github.com/user-attachments/assets/d896cb2a-5685-4abc-9df9-be92b81afbce" />
+
 
 
 
